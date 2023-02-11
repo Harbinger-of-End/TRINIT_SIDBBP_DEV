@@ -1,0 +1,47 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.farmBtn{
+    padding-bottom: 20px;
+}
+.farmer{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+button{
+    background-color: #20c997;
+    padding: 10px;
+    color: white;
+    border-radius: 19px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 20px;
+}
+button:hover{
+    opacity: 0.65;
+}
+.farmerEnthu{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    padding-top: 200px;
+}
+.choice{
+    padding-bottom: 50px;
+
+}
+.farmPg{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    padding-top: 200px;
+}
+.enthuPg{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    padding-top: 200px;
+}
